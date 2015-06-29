@@ -1,0 +1,28 @@
+{
+  "ProjectName": "RemoteRepoTest",
+  "ProjectGuid": "2863a59b-03a2-480f-8ba0-e4377484fc58",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.RemoteRepoTest",
+  "DisplayName": "RemoteRepoTest",
+  "Author": "",
+  "Description": "RemoteRepoTest",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.0.1",
+  "Framework": "NativeScript"
+}
